@@ -4,6 +4,11 @@ Project: Applied Data Analysis: Wrangling, Exploration &amp; BI Dashboards
 # Formula One
 **Hypothesis / Insights / Business Questions:**
 
+**Revised Questions:**
+**1:** Start of Grid Position 1 vs. Race Result Position
+**2a:** Correlation with the Introduction of DRS 
+**2b.** Correlation with Overtaking
+**3. **Status vs Pre-DRS and Post-DRS
 
 **1. Qualifying Position/Start of Race Position vs. Final Position**
 Is there a strong correlation between starting grid position and race finishing position, and does it differ by track?
